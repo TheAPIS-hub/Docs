@@ -8,6 +8,6 @@ description: >-
 
 | Terminology | Synonyms | Description |
 | ----------- | -------- | ----------- |
-|             |          |             |
+| AMMs        |          |             |
 |             |          |             |
 |             |          |             |

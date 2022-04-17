@@ -2,7 +2,7 @@
 
 Follow community curated upcoming drops or hot NFT mints. Set a reminder alert for any project. After connecting your Web3 wallet, you can keep track of any NFT project you eyeing for.&#x20;
 
-![](<../../../.gitbook/assets/Premium - Calendar (1).png>)
+<mark style="color:red;">{insert pic}</mark>
 
 Click Add New Project, type in some basic information about the NFT project you want to track and set the mint date.&#x20;
 

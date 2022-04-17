@@ -79,12 +79,12 @@ AUM: Σ loans issued (doesn’t include collateral posted by borrowers)&#x20;
 Collateral: Σ assets deposited by borrowers Revenue (not sure most feasible way to measure—likely programmed into each smart contract in a way that is standardizable): Σ AUM \* interest paid Revenue to token holders: Revenue to LPs \* protocol fee, if applicable (can assume 0/ignore at the moment) dYdX Synthetix Mirror\
 
 
-### Yield Aggregating Protocols&#x20;
+### Yield Aggregating Protocols:
 
-(most complex for revenue—even the best ones—don’t do revenue for these guys yet):&#x20;
+* most complex for revenue—even the best ones—don’t do revenue for these guys yet:&#x20;
 
 $$
-\sum(\text{price} \cdot \text{asset})
+Aum=\sum(\text{price} \cdot \text{asset})
 $$
 
 AUM: Σ Price/asset \* # of that asset, for all assets locked in each vault. Each protocol has a contract factory for launching vaults, i.e. ETH vault; USDC vault; stETH vault; etc.. Yearn Finance Alpha Homora Convex Rari Bucket&#x20;
