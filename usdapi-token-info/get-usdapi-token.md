@@ -1,7 +1,7 @@
 ---
 description: >-
-  $API token is the native token of The APIS, built based on Ethereum Chain's
-  ERC-20 standard, with a fixed total supply of 1 billion.
+  The $API token is the native token of The APIS, built based on the Ethereum
+  Virtual Machine's ERC-20 standard. $API has a fixed total supply of 1 billion.
 ---
 
 # 📈 Get $API Token
