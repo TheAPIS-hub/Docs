@@ -54,6 +54,6 @@ There must be a threshold of tokens held to earn the discount (i.e. $1 USD of $A
 
 All Stakers—both service provider and stakers—will also be able to execute all Governance Rights via the superfluid design of our API staking contracts. Thus, we will not only use Snapshot for token voting, but also build voting directly into our native website, alongside staking functionality.
 
-![Figure 3.2.4: Superfluid API Composition.](https://fnhvux1iyg.feishu.cn/space/api/box/stream/download/asynccode/?code=ODBhZWM1NjFkNGRiN2ExMjNjZjljNDRhNGNlNmYzMTJfa0VDOGtLSGxhQjBRc0J0QlJhNkJ6WjNjTU5ibHhaekxfVG9rZW46Ym94Y242SGZGMmlVVDhvTXpjVDJ3NWZvbmtjXzE2NDk5NDUxMzQ6MTY0OTk0ODczNF9WNA)
+![Figure 3.2.4: Superfluid API Composition.](../../.gitbook/assets/a5c2d29a-f447-41bc-a9ab-ce97f372daa4.png)
 
 Because a majority of tokens today are unmined, additional API tokens will be distributed via a usage mining program derived the usage of the protocol itself, namely through fees paid, as money is the most objective measure of **** usage.
