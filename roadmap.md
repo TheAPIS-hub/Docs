@@ -37,7 +37,7 @@ description: >-
 |         | Active Creators Fund for self-sustaining creators onboarding and marketing | Coming Soon   |
 |         | Releasing The APIS community membership NFT                                | Coming Soon   |
 | Q3 2022 | Update Muti-Chain Query Service                                            | Coming Soon   |
-|         | Deploy Public Chain                                                        | Coming Soon   |
+|         | Deploy Customized Rollup                                                   | Coming Soon   |
 |         | Establishing and announcing partnerships with key projects                 | Coming Soon   |
 |         | Launching marketplace for buyers and sellers                               | Coming Soon   |
 |         | Developers’ Documentation for API access to marketplace                    | Coming Soon   |
