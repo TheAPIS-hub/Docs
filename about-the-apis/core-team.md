@@ -11,7 +11,7 @@
 
 [Maximilian Jungreis](https://twitter.com/MaxWolf\_\_)
 
-* Early blockchain pioneer with partnerships and marketing experience scaling startups from ideation to exit.&#x20;
+* Early blockchain pioneer significant business development and marketing experience, scaling startups from ideation to exit.&#x20;
 * Currently investing in crypto startups through numerous blockchain-afilliated funds.
 
 ![](<../.gitbook/assets/截屏2022-03-23 下午12.43.18.png>)
