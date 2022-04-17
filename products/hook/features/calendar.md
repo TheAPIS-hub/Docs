@@ -1,6 +1,6 @@
 # Calendar
 
-Follow community curated upcoming drops or hot NFT mints. Set a reminder alert for any project. After connecting your Web3 wallet, you can keep track of any NFT project you eyeing for.&#x20;
+Follow community curated upcoming drops or hot NFT mints. Set a reminder alert for any project. After connecting your Web3 wallet, you can keep track of any NFT project you wish.&#x20;
 
 <mark style="color:red;">{insert pic}</mark>
 
@@ -10,4 +10,4 @@ MintNumber stands for the number of NFT you can mint per wallet or whitelist spo
 
 ![](<../../../.gitbook/assets/截屏2022-03-22 下午2.57.36.png>)
 
-After basic info successfully recorded, a customized reminder in your local time zone will be generated. In the near future, The APIS will inform you via email or chrome notification before mint.  With customized calendar, you will never miss out on NFT projects in your track radar again.&#x20;
+After this basic info successfully recorded, a customized reminder in your local time zone will be generated. In the near future, The APIS will inform you via email or chrome notification before mint.  With customized calendar, you will never miss out on NFT projects on your radar again.&#x20;
