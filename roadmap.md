@@ -1,8 +1,8 @@
 ---
 description: >-
-  The APIS is Indexing protocol for reading and writing to open networks.Making
-  APIs open and accessible to read on-chain data analysis to empower the
-  decentralized world.
+  The APIS is an indexing and querying protocol for reading and writing to open
+  networks. We allow users to interpret Web3 data and build Web3 products
+  without writing Web3 code.
 ---
 
 # 🤖 Roadmap
