@@ -22,8 +22,8 @@
 ## 🤓 Academy
 
 * [On-Chain Glossary](academy/on-chain-glossary/README.md)
-  * [NFT ](academy/on-chain-glossary/nft.md)
-  * [DeFi ](academy/on-chain-glossary/defi.md)
+  * [NFT](academy/on-chain-glossary/nft.md)
+  * [DeFi](academy/on-chain-glossary/defi.md)
   * [Game Fi](academy/on-chain-glossary/game-fi.md)
 
 ## ℹ $API Token Info
@@ -59,22 +59,22 @@
 ## 📃 Whitepaper
 
 * [Whitepaper](whitepaper/whitepaper/README.md)
-  * [1⃣ Background](whitepaper/whitepaper/background/README.md)
+  * [1⃣ 1⃣ Background](whitepaper/whitepaper/background/README.md)
     * [1.1 Background](whitepaper/whitepaper/background/1.1-background.md)
     * [1.2 Introduction](whitepaper/whitepaper/background/1.2-introduction.md)
-  * [2⃣ Architecture](whitepaper/whitepaper/architecture/README.md)
+  * [2⃣ 2⃣ Architecture](whitepaper/whitepaper/architecture/README.md)
     * [2.1 Message Propagation Protocol](whitepaper/whitepaper/architecture/2.1-message-propagation-protocol.md)
     * [2.2 Message Formatting Overview](whitepaper/whitepaper/architecture/2.2-message-formatting-overview.md)
     * [2.3 APIS Core Contracts](whitepaper/whitepaper/architecture/2.3-apis-core-contracts.md)
     * [2.4 Governance Contract (GC)](whitepaper/whitepaper/architecture/2.4-governance-contract-gc.md)
     * [2.5 Dispute Resolution Contract (DRC) Factory](whitepaper/whitepaper/architecture/2.5-dispute-resolution-contract-drc-factory.md)
     * [2.6 Optimistic Rollup Contract](whitepaper/whitepaper/architecture/2.6-optimistic-rollup-contract.md)
-  * [3⃣ Applications](whitepaper/whitepaper/applications/README.md)
+  * [3⃣ 3⃣ Applications](whitepaper/whitepaper/applications/README.md)
     * [3.1IDs](whitepaper/whitepaper/applications/3.1ids.md)
     * [3.2 API Token](whitepaper/whitepaper/applications/3.2-api-token.md)
     * [3.3 Token Distribution, Community Ownership](whitepaper/whitepaper/applications/3.3-token-distribution-community-ownership.md)
-  * [4⃣ Discussion](whitepaper/whitepaper/discussion.md)
-  * [5⃣ Appendix](whitepaper/whitepaper/appendix.md)
+  * [4⃣ 4⃣ Discussion](whitepaper/whitepaper/discussion.md)
+  * [5⃣ 5⃣ Appendix](whitepaper/whitepaper/appendix.md)
     * [5.1 REST History and Analysis](whitepaper/whitepaper/appendix/5.1-rest-history-and-analysis.md)
     * [5.2 REST APIs in Practice](whitepaper/whitepaper/appendix/5.2-rest-apis-in-practice.md)
     * [5.3 Strengths and Weaknesses of REST](whitepaper/whitepaper/appendix/5.3-strengths-and-weaknesses-of-rest.md)
@@ -84,4 +84,4 @@
     * [5.7Note on GraphQL Resolvers:](whitepaper/whitepaper/appendix/5.7note-on-graphql-resolvers.md)
     * [5.8 Direct Comparison](whitepaper/whitepaper/appendix/5.8-direct-comparison.md)
     * [5.9 Weaknesses of GraphQL](whitepaper/whitepaper/appendix/5.9-weaknesses-of-graphql.md)
-  * [6⃣ Bibliography](whitepaper/whitepaper/bibliography.md)
+  * [6⃣ 6⃣ Bibliography](whitepaper/whitepaper/bibliography.md)
