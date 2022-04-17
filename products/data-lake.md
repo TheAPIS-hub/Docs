@@ -10,7 +10,9 @@ A data lake is a method of storing data in a natural format in a system or repos
 
 Data in a data lake includes <mark style="background-color:blue;">**structured data**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">(relational database data</mark>), <mark style="background-color:blue;">**semi-structured data**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">(CSV, XML, JSON, etc.</mark>), <mark style="background-color:blue;">**unstructured data (**</mark><mark style="background-color:blue;">emails, documents, PDFs</mark>), and <mark style="background-color:blue;">**binary data**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">(images, audio, video)</mark>, resulting in a centralized data store that holds all forms of data.
 
-In essence, a data lake is an enterprise data architecture approach, and the physical implementation is a data storage platform to centralize the storage of massive, multi-chain, multi-discipline data in an enterprise and support rapid processing and analysis of the data. In terms of implementation, Hadoop is currently the most commonly used technology for deploying data lakes, but it does not mean that a data lake means a Hadoop cluster. In order to cope with the characteristics of different business needs, MPP database + Hadoop cluster + traditional data warehouse this "hybrid" architecture of the data lake is also more and more appear in the enterprise information construction planning.
+In essence, a data lake is an enterprise data architecture approach, and the physical implementation is a data storage platform to manage the storage of massive, multi-chain, multi-discipline data in an enterprise and support rapid processing and analysis of the data.&#x20;
+
+In terms of implementation, Hadoop is currently the most commonly used technology for deploying data lakes, but it does not mean that a data lake means a Hadoop cluster. In order to cope with the characteristics of different business needs, MPP database + Hadoop cluster + traditional data warehouse this "hybrid" architecture of the data lake is also more and more appear in the enterprise information construction planning.
 
 A data lake needs to provide sufficient data storage capacity, a storage that holds all the data in an enterprise/organization.&#x20;
 
@@ -24,4 +26,4 @@ The data lake needs to have a complete data lifecycle management capability. Not
 
 The data lake needs to have perfect data acquisition and data distribution capabilities. The data lake needs to be able to support a variety of data sources and obtain full/incremental data from relevant data sources; then standardize the storage. The data lake can push the results of data analysis and processing to the appropriate storage engine to meet different application access requirements.&#x20;
 
-For multichain data support, including ultra-large-scale storage and scalable large-scale multichaindata processing capabilities.
+For multichain data support, the data lake needs to recognize the current consensus state of chains as well as the weights of any forks, in order to ensure that information is not provided until sufficiently finalized.
