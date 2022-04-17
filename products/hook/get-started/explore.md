@@ -1,14 +1,16 @@
 ---
-description: Explore have selected the particular data chart for end user
+description: >-
+  Explore offers particular, customized data sets for each end-user, over
+  multiple timescales
 ---
 
 # Explore
 
 * Marketcap comparative change&#x20;
 * Trading volume change
-* Addresses increment
-* Top NFT collections in a day
-*   &#x20;Top DeFi projects in a day
+* Address history
+* Most active NFT collections
+*   Most active DeFi projects
 
 
 
@@ -16,11 +18,11 @@ description: Explore have selected the particular data chart for end user
 
 ## Everyone’s an Investor
 
-\-Providing Actionable Data to Enable This Future
+Hook provides actionable data to enable the future where everyone is an investor.
 
-### Metrics explain
+### Metrics Overview
 
-### L1 chain:
+### L1 public chains:
 
 $$
 Aum=∑ (price*asset)
@@ -43,7 +45,7 @@ Inflation Rate: (block reward – base fee)/supply. Can take a 7 day moving aver
 Burn Percentage: base fee/(base fee + tip). Tip is the remainder of the transaction fee, what is actually paid to the miner: total transaction fee = base fee + tip.\
 
 
-### AMMs:
+### Automated Market Makers (AMMs):
 
 \
 Each protocol below likely has a contract factory for launching of sub-markets: i.e. specific AMM pools, money markets (in the case of lending protocols), and vaults (in the case of yield-aggregating products).&#x20;
