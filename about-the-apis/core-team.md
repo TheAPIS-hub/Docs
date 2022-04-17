@@ -23,7 +23,7 @@
 
 ![](<../.gitbook/assets/截屏2022-03-23 下午12.43.52.png>)
 
-**Derek Dunn**
+****[**Derek Dunn**](https://github.com/Derek-Dunn)****
 
 * Former developer for world-renowned crypto organizations.&#x20;
 * Decades of experience as a technical leader and product manager in the web industry.
