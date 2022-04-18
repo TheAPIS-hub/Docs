@@ -30,8 +30,8 @@
 
 * [🅰 $API Smart Contract Address](usdapi-token-info/usdapi-token-economics/smart-contract-address.md)
 * [🪙 Token Economics](usdapi-token-info/usdapi-token-economics/README.md)
-  * [Token Utilities](usdapi-token-info/usdapi-token-economics/token-utilities.md)
-  * [Token Distribution](usdapi-token-info/usdapi-token-economics/token-distribution.md)
+  * [$API Token Utility](usdapi-token-info/usdapi-token-economics/token-utilities.md)
+  * [$API Token Distribution](usdapi-token-info/usdapi-token-economics/token-distribution.md)
   * [Dune Analysis](usdapi-token-info/usdapi-token-economics/dune-analysis.md)
   * [Investors](usdapi-token-info/usdapi-token-economics/investors.md)
   * [FAQs](usdapi-token-info/usdapi-token-economics/faqs/README.md)
