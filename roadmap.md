@@ -21,7 +21,7 @@
 |         | NFT Calendar                                                               | ~~Completed~~ |
 |         | NFT Favorites                                                              | Coming Soon   |
 |         | Integrate with ENS                                                         | Coming Soon   |
-| Q2 2022 | Noob Games Dashboard                                                       | Coming Soon   |
+| Q2 2022 | Hook, Alpha Launch                                                         | Coming Soon   |
 |         | Customized API service                                                     | Coming Soon   |
 |         | Node Service                                                               | Coming Soon   |
 |         | Building The APIS DAO                                                      | Coming Soon   |
