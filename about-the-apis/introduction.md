@@ -4,6 +4,5 @@ The APIS is an indexing and querying protocol for reading and writing to open ne
 
 ### Our Core Products:
 
-* Hook
-* RSS
-* DataLake
+* [Hook](../products/hook/)
+* [Data Lake](../products/data-lake.md)
