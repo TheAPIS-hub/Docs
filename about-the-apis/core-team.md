@@ -27,5 +27,7 @@ Martha Lee
 
 * Former developer for world-renowned crypto organizations.&#x20;
 * Decades of experience as a technical leader and product manager in the web industry.
+* 6+years in Blockchain Development&#x20;
+* Bitcoin OG
 
 ****
