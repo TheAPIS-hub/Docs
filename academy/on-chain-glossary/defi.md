@@ -4,10 +4,18 @@ description: >-
   in DeFi analysis.
 ---
 
-# DeFi&#x20;
+# DeFi
 
-| Terminology | Synonyms | Description |
-| ----------- | -------- | ----------- |
-| AMMs        |          |             |
-|             |          |             |
-|             |          |             |
+| Terminology | Synonyms                            | Description                                                                                                                                                                                                                                                                   |
+| ----------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AMMs        | Automated Market Maker              | A decentralized asset trading pool that enables market participants to buy or sell cryptocurrencies. Uniswap is the most well-known AMM.                                                                                                                                      |
+| BTC         | Bitcoin                             | The first cryptocurrency, for which Blockchain was conceived and the forst blockchain platform created                                                                                                                                                                        |
+| CEX         | Centralized Exchange                | ith a physical address and a corporate structure, subject to applicable laws, codes of practice and regulations of the jurisdictions in which it operates.                                                                                                                    |
+| DAO         | Distributed Autonomous Organization | Can be defined as an ‘organisation’ on a blockchain, represented by a set of rules encoded as a computer program (on a blockchain) that is transparent, controlled by the organization members and not influenced by a central government.                                    |
+| DEX         | Distributed Exchange                | In DeFi a DEX is a type of cryptocurrency exchange that allows for direct peer-to-peer cryptocurrency transactions to take place online securely and without the need for an intermediary.                                                                                    |
+| ETH         | Ethereum                            | Ethereum launched in July 2015, allows for much more complexity using smart contracts, its own design protocols and programming language.                                                                                                                                     |
+| Fiat        | Fiat Money                          | Fiat money is a government-issued currency that is not backed by a physical commodity, such as gold or silver, but rather by the government that issued it. Fiat currency is legal tender in (at least) its home jurisdiction, whereas many or most cryptocurrencies are not. |
+| GameFi      |                                     | GameFi is an amalgam of two words: gaming and decentralized finance (DeFi). It is also referred to as play-to-earn (P2E) games.                                                                                                                                               |
+| Leverage    |                                     | In DeFi it more specifically refers to the use of multipliers on exchanges                                                                                                                                                                                                    |
+| Slippage    |                                     | Slippage refers to a difference in price between buyer and seller expectations. Slippage can lead to a final sale price of the asset that is either more or less than the requested transaction amount.                                                                       |
+| TVL/TLV     | The Total Value Locked              | Total Locked Value (TLV) is a measure of the dollar value of all the investor deposits in coins or tokens locked into a platform, protocol, lending program, yield farming program, or insurance liquidity pool.                                                              |

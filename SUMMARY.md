@@ -24,7 +24,6 @@
 * [On-Chain Glossary](academy/on-chain-glossary/README.md)
   * [NFT](academy/on-chain-glossary/nft.md)
   * [DeFi](academy/on-chain-glossary/defi.md)
-  * [Game Fi](academy/on-chain-glossary/game-fi.md)
 
 ## ℹ $API Token Info
 
