@@ -40,9 +40,13 @@ Revenue: Σ transaction fees per block, for n blocks over time t. Transaction fe
 
 Tokens Burned: Σ base fee per block, for n blocks since the launch of EIP1559 (the Berlin Hardfork (August 5, 2021).&#x20;
 
-Inflation Rate: (block reward – base fee)/supply. Can take a 7 day moving average to calculate/graph the rate more steadily (less volatile).&#x20;
+Inflation Rate: $$（block reward-base fee)/supply$$
 
-Burn Percentage: base fee/(base fee + tip). Tip is the remainder of the transaction fee, what is actually paid to the miner: total transaction fee = base fee + tip.\
+Can take a 7 day moving average to calculate/graph the rate more steadily (less volatile).&#x20;
+
+Burn Percentage: $$base fee/(base fee + tip)$$
+
+Tip is the remainder of the transaction fee, what is actually paid to the miner: total transaction fee = base fee + tip.\
 
 
 ### Automated Market Makers (AMMs):
@@ -52,7 +56,11 @@ Each protocol below likely has a contract factory for launching of sub-markets: 
 
 
 
-Automated Market Maker (AMM) Protocols: AUM: Σ value of LP tokens = Σ Price/asset \* # of that asset, for all assets locked in each sub-market. Each protocol has a contract factory for launching sub-markets, i.e. ETH-USDC pool; ETH-USDT pool; LINK-ETH pool; etc.&#x20;
+Automated Market Maker (AMM) Protocols:&#x20;
+
+
+
+AUM: Σ value of LP tokens = Σ Price/asset \* # of that asset,for all assets locked in each sub-market. Each protocol has a contract factory for launching sub-markets, i.e. ETH-USDC pool; ETH-USDT pool; LINK-ETH pool; etc.&#x20;
 
 
 
