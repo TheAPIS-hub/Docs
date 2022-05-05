@@ -53,6 +53,7 @@
 * [🔐 Security](docs/security/README.md)
   * [📄 Security Report by Certik](docs/security/security-report-by-certik.md)
 * [📄 Terms & Conditions](docs/terms-and-conditions.md)
+* [Privacy Policy](docs/privacy-policy.md)
 * [ℹ Disclaimer](docs/disclaimer.md)
 
 ## 📃 Whitepaper
