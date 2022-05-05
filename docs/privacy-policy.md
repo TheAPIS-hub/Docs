@@ -1,4 +1,4 @@
-# Privacy Policy
+# 📍 Privacy Policy
 
 The APIS is committed to protecting your privacy. Your privacy matters to us, so please do take the time to get to know and familiarize yourself with our policies and practices. Please understand that we reserve the right to change any of our policies and practices at any time, but you can always find the latest version of this Policy here on this page.
 
