@@ -1,4 +1,4 @@
-# 6⃣ Bibliography
+# 6⃣ 6⃣ Bibliography
 
 \[1] Wanseob-Lim. “Zkopru (Zk Optimistic Rollup) for Private Transactions.” _Ethereum Research_, 21 July 2020, [https://ethresear.ch/t/zkopru-zk-optimistic-rollup-for-private-transactions/7717](https://ethresear.ch/t/zkopru-zk-optimistic-rollup-for-private-transactions/7717)
 
@@ -54,7 +54,7 @@
 
 \[27] Martinez, Julian. “Understanding Proof of Stake: The Nothing at Stake Theory.” _Medium_, 22 Jan. 2020, [https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027).
 
-\[28] “Synthetix | Decentralised Synthetic Assets.” _Synthetix_, [https://www.synthetix.io/](https://www.synthetix.io). Accessed 22 Aug. 2020.
+\[28] “Synthetix | Decentralised Synthetic Assets.” _Synthetix_, [https://www.synthetix.io/](https://www.synthetix.io/). Accessed 22 Aug. 2020.
 
 \[29] Substreight. “YIP 30: YFI Inflation Schedule.” _Yearn.Finance_, 2 Aug. 2020, [https://gov.yearn.finance/t/yip-30-yfi-inflation-schedule/1439](https://gov.yearn.finance/t/yip-30-yfi-inflation-schedule/1439).
 
@@ -72,7 +72,7 @@
 
 \[36] “Strongly Typed.” _Techopedia.Com_, [https://www.techopedia.com/definition/24434/strongly-typed](https://www.techopedia.com/definition/24434/strongly-typed).
 
-\[37] “Production-Grade Container Orchestration.” _Kubernetes_, [https://kubernetes.io/](https://kubernetes.io). Accessed
+\[37] “Production-Grade Container Orchestration.” _Kubernetes_, [https://kubernetes.io/](https://kubernetes.io/). Accessed
 
 \[38] “Microservices.” _Martinfowler.Com_, [https://martinfowler.com/articles/microservices.html](https://martinfowler.com/articles/microservices.html).
 

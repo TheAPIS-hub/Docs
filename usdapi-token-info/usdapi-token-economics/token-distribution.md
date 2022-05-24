@@ -1,4 +1,4 @@
-# Token Distribution
+# $API Token Distribution
 
 The APIS Protocol launched its mainnet on January 2022. We already finished our [Liquidity Bootstrapping Pool](https://theapisxyz.medium.com/instructions-for-participating-in-the-balancer-liquidity-bootstrapping-pool-blbp-for-the-apis-d83141b53f2c) (LBP), and so would like to re-post the API’s current distribution, as transparent token distributions are crucial for long-term incentive alignment and value creation in Web3.
 
@@ -18,4 +18,4 @@ _Reference:_&#x20;
 
 
 
-![](../../.gitbook/assets/Feishu20220414-221719.jpg)
+![](../../.gitbook/assets/20220524-104856.png)
