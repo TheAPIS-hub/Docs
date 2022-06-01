@@ -10,10 +10,15 @@ We have had two rounds of Investors, via a seed and strategic round. All of our 
 |  WaterDrip Capital  |
 |  Bizantine Capital  |
 |  Exnetwork Captial  |
+|     Black Dragon    |
 | **Strategic round** |
 |     FBG Capital     |
 |   Master Ventures   |
-|  MoonWhale Ventures |
+|  Moonwhale Ventures |
 |     SMO Capital     |
-|    Avstar capital   |
+|    Avstar Capital   |
 |   Titans Ventures   |
+|     Sky Ventures    |
+|      CA Capital     |
+|      Blocktonix     |
+|                     |
